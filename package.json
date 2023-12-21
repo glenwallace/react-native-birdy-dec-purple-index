@@ -1,0 +1,29 @@
+{
+    "name": "react-native-birdy-dec-blue-index",
+    "version": "1.0.0",
+    "description": "this is designed for glenwallace",
+    "homepage": "https://github.com/glenwallace/react-native-birdy-dec-blue-index",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "react-native-birdy-dec-blue-index"
+    ],
+    "author": {
+        "name": "glenwallace",
+        "email": "glenwallace@example.com"
+    },
+    "license": "MIT",   
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/glenwallace/react-native-birdy-dec-blue-index.git"
+    },
+    "peerDependencies": {
+        "react": "*",
+        "react-native": "*",
+        "react-native-splash-screen": "3.3.0",
+        "react-native-root-toast": "3.4.1",
+        "react-native-network-info": "5.2.1"
+    }
+  }

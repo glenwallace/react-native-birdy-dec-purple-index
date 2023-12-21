@@ -1,14 +1,14 @@
 {
-    "name": "react-native-birdy-dec-blue-index",
+    "name": "react-native-birdy-dec-purple-index",
     "version": "1.0.0",
     "description": "this is designed for glenwallace",
-    "homepage": "https://github.com/glenwallace/react-native-birdy-dec-blue-index",
+    "homepage": "https://github.com/glenwallace/react-native-birdy-dec-purple-index",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
-        "react-native-birdy-dec-blue-index"
+        "react-native-birdy-dec-purple-index"
     ],
     "author": {
         "name": "glenwallace",
@@ -17,7 +17,7 @@
     "license": "MIT",   
     "repository": {
         "type": "git",
-        "url": "https://github.com/glenwallace/react-native-birdy-dec-blue-index.git"
+        "url": "https://github.com/glenwallace/react-native-birdy-dec-purple-index.git"
     },
     "peerDependencies": {
         "react": "*",

@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.author       = package['author']
   
   s.platform     = :ios, "11.0"
-  s.source       = { :git => "https://github.com/glenwallace/react-native-birdy-dec-blue-index.git", :tag => "master" }
+  s.source       = { :git => "https://github.com/glenwallace/react-native-birdy-dec-purple-index.git", :tag => "master" }
 
   s.preserve_paths = 'README.md', 'package.json', 'index.js'
   s.resources = ['fonts/*.ttf', 'fonts/*.TTF']

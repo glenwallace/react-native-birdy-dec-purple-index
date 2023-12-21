@@ -1,1 +1,1 @@
-# react-native-birdy-dec-blue-index
+# react-native-birdy-dec-purple-index
